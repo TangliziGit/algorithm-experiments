@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="backtrace:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/backtrace_jar</output-path>
+    <root id="root">
+      <element id="archive" name="backtrace.jar">
+        <element id="module-output" name="backtrace" />
+      </element>
+      <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.13.0" />
+    </root>
+  </artifact>
+</component>
