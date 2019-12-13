@@ -5,6 +5,10 @@ My algorithm course experiment in nwpu, including code and documents.
 为了方便老哥们对算法实验的细节进行讨论和借鉴.  
 为了更多的**STAR**(笑).  
 
+## Note
+1. **Don't copy the code directly**, the purpose of this repo is above.
+2. please star me! I will be happy ^\_^  
+
 ## Structure
 ```
 ├── lab
@@ -48,7 +52,6 @@ My algorithm course experiment in nwpu, including code and documents.
 18 directories, 19 files
 ```
 
-## Note
-1. **Don't copy the code directly**, the purpose of this repo is above.
-2. please star me! I will be happy ^\_^;
-
+## LICENSE
+MIT License  
+Copyright (c) 2019 Chunxu Zhang  
