@@ -49,7 +49,7 @@ public class AlgorithmComparision {
         Map<Integer, Pair<Double, Integer>> GARecord = new HashMap<>();
 
         IntStream scale = IntStream.iterate(2, i -> i + 1);
-        scale.limit(14).forEach(number -> {
+        scale.limit(15).forEach(number -> {
             int[][] graph = TestUtil.createTspTestCase(number);
             int[][] graphUnpad = TestUtil.disablePadding(graph);
 
@@ -76,12 +76,13 @@ public class AlgorithmComparision {
                 backtraceForTsp.backtrack4TSP(graph, number);
                 return backtraceForTsp.bestc;
             }, 25));
+
+            System.out.println("GA: " + GARecord);
+            System.out.println("branch and bound(RestMinCost): " + branchAndBoundRecordRestMinCost);
+            System.out.println("branch and bound(TwoMinCost): " + branchAndBoundRecordTwoMinCost);
+            System.out.println("backtrace: " + backtraceRecord);
         });
 
-        System.out.println("GA: " + GARecord);
-        System.out.println("branch and bound(RestMinCost): " + branchAndBoundRecordRestMinCost);
-        System.out.println("branch and bound(TwoMinCost): " + branchAndBoundRecordTwoMinCost);
-        System.out.println("backtrace: " + backtraceRecord);
     }
 
 }

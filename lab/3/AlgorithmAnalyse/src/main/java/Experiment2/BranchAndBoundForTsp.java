@@ -193,7 +193,7 @@ public class BranchAndBoundForTsp {
 
         @Override
         public int compareTo(Node x) {
-            return -1*Integer.compare(lowerBound, x.lowerBound);
+            return Integer.compare(lowerBound, x.lowerBound);
         }
     }
 }

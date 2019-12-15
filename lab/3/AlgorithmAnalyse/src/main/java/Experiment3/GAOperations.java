@@ -36,7 +36,6 @@ public class GAOperations {
 	public int solve(int iterNum) {
 		RandomInitialiation(popNum, length, codes, codeNum, codeCount, props);
 
-		// TODO
 		int iter = 0;
 		while (iter++ < iterNum) {
 			for (int i=0; i<length; i++)
