@@ -14,9 +14,9 @@ My algorithm course experiment in nwpu, including code and documents.
 ├── lab
 │   ├── 1
 │   ├── 2
-│   ├── 2017303024_张椿旭_实验一.zip
-│   ├── 2017303024_张椿旭_实验二.zip
 │   └── 3
+├── LICENSE
+├── README.md
 ├── work
 │   ├── 1
 │   ├── 2
