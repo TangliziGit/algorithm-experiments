@@ -8,6 +8,7 @@ My algorithm course experiment in nwpu, including code and documents.
 ## Note
 1. **Don't copy the code directly**, the purpose of this repo is above.
 2. please star me! I will be happy ^\_^  
+3. 最大团代码是有问题的, 等考完试再改吧, 本人懒得不行.  
 
 ## Structure
 ```
@@ -53,5 +54,8 @@ My algorithm course experiment in nwpu, including code and documents.
 ```
 
 ## LICENSE
+```
 MIT License  
+
 Copyright (c) 2019 Chunxu Zhang  
+```
