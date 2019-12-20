@@ -8,7 +8,6 @@ My algorithm course experiment in nwpu, including code and documents.
 ## Note
 1. **Don't copy the code directly**, the purpose of this repo is above.
 2. please star me! I will be happy ^\_^  
-3. 最大团代码是有问题的, 等考完试再改吧, 本人懒得不行.  
 
 ## Structure
 ```
@@ -48,9 +47,10 @@ My algorithm course experiment in nwpu, including code and documents.
     ├── 第八讲：随机化算法 12.28.ppt
     ├── 第八讲：随机化算法.ppt
     ├── 课程考试与答疑(1).docx
+    ├── 课程考试与答疑(1).pdf
     └── 贪心算法-2019.11.6.ppt
 
-18 directories, 19 files
+18 directories, 20 files
 ```
 
 ## LICENSE
