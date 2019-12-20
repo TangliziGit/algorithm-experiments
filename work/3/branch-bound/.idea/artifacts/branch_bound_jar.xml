@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="branch-bound:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/branch_bound_jar</output-path>
+    <root id="root">
+      <element id="archive" name="branch-bound.jar">
+        <element id="module-output" name="branch-bound" />
+      </element>
+      <element id="library" level="project" name="Maven: org.scala-lang:scala-library:2.13.0" />
+    </root>
+  </artifact>
+</component>

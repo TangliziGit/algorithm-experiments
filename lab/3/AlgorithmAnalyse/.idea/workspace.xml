@@ -7,13 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0df58e01-4a51-4bc8-9c69-3248252ca3be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/main/Experiment2/BranchAndBoundForTsp$Node.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/Experiment2/BranchAndBoundForTsp$Node.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/main/Experiment2/AlgorithmComparision.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/main/Experiment2/AlgorithmComparision.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Experiment2/BranchAndBoundForTsp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Experiment2/BranchAndBoundForTsp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Experiment3/GAOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Experiment3/GAOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/Experiment2/AlgorithmComparision.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/Experiment2/AlgorithmComparision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../实验内容/实验三/.~实验内容三.doc" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,7 +45,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../dist/lab3/Lab3-RMI" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../work/3/branch-bound" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -184,7 +179,10 @@
       <workItem from="1575974479193" duration="14373000" />
       <workItem from="1576047722247" duration="1230000" />
       <workItem from="1576256384877" duration="2312000" />
-      <workItem from="1576342586385" duration="3311000" />
+      <workItem from="1576342586385" duration="3362000" />
+      <workItem from="1576682769301" duration="175000" />
+      <workItem from="1576682964344" duration="22000" />
+      <workItem from="1576809239802" duration="45000" />
     </task>
     <servers />
   </component>

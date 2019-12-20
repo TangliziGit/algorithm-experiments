@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="78ff5856-50f6-4254-8193-5fe2a43f07e8" name="Default Changelist" comment="" />
+    <list default="true" id="78ff5856-50f6-4254-8193-5fe2a43f07e8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/org/tanglizi/algo/MaxClique.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../lab/3/AlgorithmAnalyse/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../lab/3/AlgorithmAnalyse/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/tanglizi/algo/MaxClique.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/org/tanglizi/algo/App.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/org/tanglizi/algo/MaxCliqueTest.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/org/tanglizi/algo/MaxCliqueTest.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/tanglizi/algo/App$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/tanglizi/algo/App$delayedInit$body.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/tanglizi/algo/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/tanglizi/algo/MaxClique$BBNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/tanglizi/algo/MaxClique$CliqueNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/org/tanglizi/algo/MaxClique.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/org/tanglizi/algo/MaxClique.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/org/tanglizi/algo/MaxCliqueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/org/tanglizi/algo/MaxCliqueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../实验内容/实验三/.~实验内容三.doc" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +38,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -32,13 +52,15 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1UmN7ahePs6OohM4jwoD7bGsYsd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../lab/3/AlgorithmAnalyse" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.29528302" />
   </component>
@@ -118,10 +140,22 @@
       <updated>1575957643663</updated>
       <workItem from="1575957646752" duration="10684000" />
       <workItem from="1575974245844" duration="829000" />
+      <workItem from="1576809289496" duration="6590000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
